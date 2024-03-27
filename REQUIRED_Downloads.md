@@ -1,5 +1,6 @@
 ### Checkpoints:
 Dreamshaper ver. 8 - https://civitai.com/models/4384/dreamshaper
+
 AbsoluteReality - https://civitai.com/models/81458/absolutereality
 
 DreamshaperXL - https://civitai.com/models/112902/dreamshaper-xl
@@ -39,7 +40,10 @@ https://huggingface.co/vclansience/SD_lora/tree/main
 
 ### LoRA:
 https://civitai.com/models/91775/neofuturistic-tech-world-morph
+
 https://civitai.com/models/122563/lora-moon
+
+https://civitai.com/models/355518/cute-collectible
 
 ### Embeddings:
 FastNegativeV2.pt
